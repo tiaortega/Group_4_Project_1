@@ -45,26 +45,29 @@
         * NY_Tot_Claims
         * Statitistics Unemployment Data
         * Hou_Claims_MFage
+        * Hou_Tot_Claims
+        * gender
+        
 
  **Statistical Analysis of Covid Data**
     
     Imports
         * covid_tx_df
         * covid_ny_df
-        * covid_all_df        * 
+        * covid_all_df        
     
     Exports
         * % positive tests by month
-        * TX August Daily % Positives
-        * TX vs NY % Posititves Boxplot June to Sept
-        * TX vs NY % Posititves Boxplot
-        * TX vs NY % Positives Monthly Averages
-        * TX vs NY % Posititves Frequency
-        * TX vs NY Daily % Postive June to Sept
+        * % positive tests Aug and Sept
+        * TX August Daily Posititves(%) 
+        * TX vs NY % Positives Frequency
+        * TX vs NY Aug and Sept % Posititves Frequency
+        * TX vs NY Daily % Postive August and Sept
         * TX vs NY Daily Testing Totals Frequency
-        * TX vs NY June to Sept % Posititves Frequency
-        * TX vs NY% Positive June to Sept
-        * TX vs NY Totals Boxplot     
+        * TX vs NY Posititves(%) Monthly Averages Line Chart
+        * TX vs NY Positive(%) Boxplot
+        * TX vs NY Positives(%) Boxplot August and Sept
+        * TX vs NY Totals Boxplot.png
  
  **Texas vs New York in Positive Covid-19 Testing by Month bar chart**
     
@@ -81,11 +84,12 @@
         * % Men Unemployed
 
     Exports
-        * Texas Male & Female Unemployment vs. % Positives
-        * Reduced TX % Unemployment vs. Covid % Positive
-        * Texas Adolescent Positives vs. Women Unemployment
-        * Texas Adolescent Positives vs. Men Unemployement 
         * % positive tests and unemployment   
+        * Reduced TX % Unemployment vs. Covid % Positive
+        * Texas Adolescent Positives vs. Men Unemployement
+        * Texas Adolescent Positives vs. Women Unemployment
+        * Texas Male & Female %Unemployment vs. Covid % Positive
+        
       
  **Group4 Project 1Notebook_geomap**
     
@@ -100,13 +104,12 @@
     
  
     
- **Annual_Change_by_industry**
+ **Annual % Change By Industry During Covid-19 bar chart #1**
 
     Imports 
         * Texas Labor Market CES Data
 
     Exports
-        * Unemp_by_industry_month_year
         * Annual_Change_by_Industry
 
 
