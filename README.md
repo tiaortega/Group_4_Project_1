@@ -42,7 +42,6 @@
     
     Exports
         * MF_Teen_unempl
-        * Hou_Tot_Claims
         * NY_Tot_Claims
         * Statitistics Unemployment Data
         * Hou_Claims_MFage
